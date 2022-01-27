@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "402866319123",
+    "project_id": "chattab-yes",
+    "storage_bucket": "chattab-yes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402866319123:android:5945b76c6f7cc451adb4e6",
+        "android_client_info": {
+          "package_name": "com.yes.chattab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402866319123-jmh33atg21pb3q52s3dte5r9o7i8959g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdyRduOac4qP-4JA0ZmGi1VlpuqolBMDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "402866319123-jmh33atg21pb3q52s3dte5r9o7i8959g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
