@@ -6,7 +6,7 @@ Login & Register | Home | My Profile | Others Profile
 
 Saved Photos | Notification Page | Chats Page | Messaging Page
  -----| ----------- | ------ | -----
-![Saved Photos](https://github.com/Emresaridogan/chattab/blob/master/app/img/savedphotos.jpeg) | ![Notification Page](https://github.com/Emresaridogan/chattab/blob/master/app/img/notificationpage.jpeg) | ![Chats Page](https://github.com/Emresaridogan/chattab/blob/master/app/img/chat.jpeg) | ![Messaging Page](https://github.com/Emresaridogan/chattab/blob/master/app/img/chat.jpeg)
+![Saved Photos](https://github.com/Emresaridogan/chattab/blob/master/app/img/savedphotos.jpeg) | ![Notification Page](https://github.com/Emresaridogan/chattab/blob/master/app/img/notificationpage.jpeg) | ![Chats Page](https://github.com/Emresaridogan/chattab/blob/master/app/img/chat.jpeg) | ![Messaging Page](https://github.com/Emresaridogan/chattab/blob/master/app/img/messaging.jpeg)
 
 
 ### Features :point_down:
